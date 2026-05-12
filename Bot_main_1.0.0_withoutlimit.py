@@ -11,11 +11,11 @@ import platform
 import os
 import sys
 
-KOOK_TOKEN = '1/NDc3NTA=/5dugffUuDxyA2rMFmy2oNw=='
-AI_API_KEY = 'sk-649fsGsn3ghGmvxR5uHorS8AG3Pfwc6pd6dfWRN9oURPPj64'
-AI_BASE_URL = 'https://aiapi.hkmc.online/v1' 
-
-ADMIN_IDS = ['259604719'] 
+KOOK_TOKEN = 'here'
+AI_API_KEY = ''
+AI_BASE_URL = '' 
+#具体看另一个版本
+ADMIN_IDS = [''] 
 
 SUPPORTED_MODELS = ["gpt-5.2", "gpt-5.4-mini", "gpt-5.5", "deepseek-v4-pro", "grok-4.20-fast"]
 DEFAULT_MODEL = "gpt-5.4-mini"
