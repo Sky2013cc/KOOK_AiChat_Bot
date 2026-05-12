@@ -22,6 +22,7 @@ pip install khl.py openai psutil
 ---
 
 以下是用户可以使用的指令！
+
 • 1./c [内容]'和'/chat [内容]
 与 AI 发起对话，例如 /c 你好，请自我介绍。
 
